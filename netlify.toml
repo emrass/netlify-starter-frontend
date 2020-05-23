@@ -3,7 +3,7 @@
 [build]
   publish = "build/"
   command = "yarn build"
-  environment = { NODE_VERSION = "13.6.0" }
+  environment = { NODE_VERSION = "14.3.0" }
 
   # Directory with the serverless Lambda functions to deploy to AWS.
   # functions = "project/functions/"
